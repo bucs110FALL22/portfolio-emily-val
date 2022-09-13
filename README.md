@@ -14,4 +14,4 @@ Preferred Name: Emily
 
 Discord username: emiIy#7531
 
-REPL url: https://replit.com/@EmilyMendez
+REPL url: https://replit.com/join/omxmeokcdk-emilymendez 
