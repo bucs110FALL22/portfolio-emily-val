@@ -1,5 +1,7 @@
 import turtle #1. import modules
 import random
+import pygame
+import math
 
 #Part A
 window = turtle.Screen() # 2.  Create a screen
@@ -30,9 +32,6 @@ michelangelo.goto(-100, 20)
 leonardo.goto(-100, 20)
 
 # PART B - complete part B here
-
-import pygame
-import math
 
 color = [255, 0, 255]
 color2 = [0, 0, 0]
@@ -103,4 +102,4 @@ pygame.time.wait(1000)
 window.fill(color2)
 pygame.display.flip()
 
-window.exitonclick()
+
