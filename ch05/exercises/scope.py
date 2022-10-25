@@ -14,9 +14,9 @@ def square(e):
   return exponent(e, 2)
 
 def main():
-  print(multiply(4, 6))
-  print(exponent(4, 3))
-  print(square(7))
+  print(multiply(3, 9))
+  print(exponent(2, 8))
+  print(square(4))
 
 main()
   
